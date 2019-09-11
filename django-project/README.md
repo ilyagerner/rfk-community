@@ -1,6 +1,6 @@
 # Instructions for Launching the Django Starter Project
 
-## These instructions are a WIP; they should become considerably easier after we Dockerize this application. Steps 0 through 3 need only be done. Steps 4 through 
+## These instructions are a WIP; they should become considerably easier after we Dockerize this application. Steps 0 through 3 need only be done. Steps 4 through 6 should be done each time you launch the project.
 
 0. Ensure that Python 3.5+ is installed on your machine. You can find the latest version of Python (currently 3.7.4) at [Python.org](https://www.python.org/downloads/). To check your current version type `python --version` in to your command line. Not sure what the command line is? [Now you do.](https://tutorial.djangogirls.org/en/intro_to_command_line/)
 
